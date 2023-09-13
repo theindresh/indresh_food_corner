@@ -1,0 +1,114 @@
+@media(max-width:1024px){
+    /* about section  */
+}    
+
+@media (max-width:991px){
+    /* custom class */
+.text-content{
+    width: 100%;
+}
+
+    /* navbar brand  */
+    .navigation-wrap .navbar-brand img{
+        height: 3.8130rem;
+    }
+    .navigation-wrap{
+        text-align: center;
+        background-color: var(--white-color);
+    }
+    .navigation-wrap .nav-link{
+        line-height: 1.865rem;
+    }
+
+    
+    /* banner design  */
+    .top-banner{
+        padding: 9.375rem 9.375rem;
+    }
+    
+    /* crousel design  */
+    .testimonial-section .carousel-item .carousel-caption p{
+        padding: 0;
+    }
+
+}
+@media (max-width:767px){
+    /* custom class */
+    h1{
+        font-size: 2.8rem;
+    }
+    h2{
+        font-size: 2rem;
+        line-height: 2.875rem;
+    }
+
+
+    /* top banner brand  */
+    .top-banner{
+        padding: 10.875rem 0 9.375rem;
+    }
+
+    /* story section  */
+    .story-section{
+        height: auto;
+        padding: 3rem 0;
+        
+    }
+    
+    /* banner design  */
+    
+    /* crousel design  */
+    .testimonial-section .carousel-item{
+        padding: 9.375rem 9.375rem;
+    }
+    /* newlwtter */
+    .newsletter{
+        width: 75%;
+    }
+    .newsletter .main-btn{
+        width: 100%;
+        margin-top: 1rem;
+    }
+    .footer .footer-link,
+    .footer a i{
+        padding: 0.0.7rem;
+    }
+
+}
+@media (max-width:330px){
+    /* custom class */
+
+
+    /* navbar brand  */
+    
+    
+    /* banner design  */
+    
+    /* crousel design  */
+    .testimonial-section .carousel-item{
+        padding: 13rem 3.375rem;
+    }
+}
+
+    
+    /* header design  */
+
+    /* section 1 top-banner design   */
+
+    /* section 2 counter  */
+
+    /* section 3 about  */
+
+    /* section 4 story   */
+
+    /* section 5 explore food   */
+
+    /* section 6 testimonial   */
+
+    /* section 7 faq   */
+
+    /* section 8 book food   */
+
+    /* section 9 newsletter   */
+   
+    /* section 10 footer   */
